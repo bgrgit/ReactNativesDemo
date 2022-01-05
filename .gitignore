@@ -58,3 +58,8 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+PrivateKey.ppk
+reactnativedemo
+reactnativedemo.pub
+reactnativedemorsa
+reactnativedemorsa.pub
