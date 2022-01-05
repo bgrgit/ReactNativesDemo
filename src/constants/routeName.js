@@ -1,0 +1,10 @@
+export const HOME_TAB='HomeTab';
+export const CONTACTS='Contacts';
+export const CONTACT_DETAIL='Contact detail';
+export const CONTACT_CREATE='Create Contact';
+export const SETTINGS='SettingsScreen';
+export const LOGIN='Login';
+export const REGISTER='SignUp';
+export const HOME_NAVIGATOR='Home';
+export const SETTINGS_NAVIGATOR='Settings';
+export const CONTACTS_NAVIGATOR='Contacts';
